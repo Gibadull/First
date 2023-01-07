@@ -1,0 +1,15 @@
+C:\Geek\Project\Seminar01\Home_Work2\bin\Debug\net6.0\Home_Work2.exe
+C:\Geek\Project\Seminar01\Home_Work2\bin\Debug\net6.0\Home_Work2.deps.json
+C:\Geek\Project\Seminar01\Home_Work2\bin\Debug\net6.0\Home_Work2.runtimeconfig.json
+C:\Geek\Project\Seminar01\Home_Work2\bin\Debug\net6.0\Home_Work2.dll
+C:\Geek\Project\Seminar01\Home_Work2\bin\Debug\net6.0\Home_Work2.pdb
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.csproj.AssemblyReference.cache
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.AssemblyInfoInputs.cache
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.AssemblyInfo.cs
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.csproj.CoreCompileInputs.cache
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.dll
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\refint\Home_Work2.dll
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.pdb
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\Home_Work2.genruntimeconfig.cache
+C:\Geek\Project\Seminar01\Home_Work2\obj\Debug\net6.0\ref\Home_Work2.dll
