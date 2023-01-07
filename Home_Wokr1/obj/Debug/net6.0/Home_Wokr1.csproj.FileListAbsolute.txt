@@ -1,0 +1,15 @@
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.csproj.AssemblyReference.cache
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\Project\Seminar01\Home_Wokr1\bin\Debug\net6.0\Home_Wokr1.exe
+C:\Geek\Project\Seminar01\Home_Wokr1\bin\Debug\net6.0\Home_Wokr1.deps.json
+C:\Geek\Project\Seminar01\Home_Wokr1\bin\Debug\net6.0\Home_Wokr1.runtimeconfig.json
+C:\Geek\Project\Seminar01\Home_Wokr1\bin\Debug\net6.0\Home_Wokr1.dll
+C:\Geek\Project\Seminar01\Home_Wokr1\bin\Debug\net6.0\Home_Wokr1.pdb
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.AssemblyInfoInputs.cache
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.AssemblyInfo.cs
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.csproj.CoreCompileInputs.cache
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.dll
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\refint\Home_Wokr1.dll
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.pdb
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\Home_Wokr1.genruntimeconfig.cache
+C:\Geek\Project\Seminar01\Home_Wokr1\obj\Debug\net6.0\ref\Home_Wokr1.dll
