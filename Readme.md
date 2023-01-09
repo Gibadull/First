@@ -7,4 +7,4 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 
 
-  [Диагарамма](Project/Seminar01/Home_Work1/Diagram1.png)  [Код](Home_Work1/Zadacha1.cs)
+  [Диагарамма](/Home_Work1/Diagram1.png)  [Код](Zadacha1.cs)
