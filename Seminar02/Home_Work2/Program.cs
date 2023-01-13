@@ -16,12 +16,12 @@ if (number < 100)
 }
 else
 {
-while (number > 100)
-{
-  number = number / 10 ;
+  while (number > 100)
+  {
+    number = number % 10;
 
-}
-Console.WriteLine(number % 10);
+  }
+  Console.WriteLine(number % 10);
 }
 
 

@@ -1,7 +1,7 @@
 ﻿
 
 
-string InfoOfDay (int day )
+string InfoOfDay(int day)
 {
   if (day >= 5)
 
@@ -10,4 +10,4 @@ string InfoOfDay (int day )
   else
     return ("нет");
 }
-Console.WriteLine(InfoOfDay (6));
+Console.WriteLine(InfoOfDay(6));
