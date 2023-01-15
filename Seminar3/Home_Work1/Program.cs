@@ -6,7 +6,14 @@
 //23432 -> да
 
 
-int val1 = 12821;
+int GetNumberByUser()
+{
+  Console.Write("Введите числа" + ": ");
+  int val1 = Convert.ToInt32(Console.ReadLine());
+  return val1;
+}
+
+int val1 = GetNumberByUser();
 int val2 = 0;
 int t = val1;
 
@@ -16,5 +23,5 @@ while (val1 != 0)
   val1 = val1 / 10;
   val2 = val2 * 10 + o;
 }
-Console.WriteLine(val1);
-Console.WriteLine(t == val2);
+Console.WriteLine($"Число является палиндромом?");
+Console.WriteLine((t == val2));

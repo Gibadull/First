@@ -2,12 +2,11 @@
 
 
 
-Console.WriteLine("Введите число: ");
-Convert.ToInt32(Console.ReadLine());
-void Cube (int size)
-  {
-    for (int i = 1; i <= size; i++)
+
+void Cube(int size)
+{
+  for (int i = 1; i <= size; i++)
     Console.WriteLine(Math.Pow(i, 3));
-  }
+}
 
 Cube(5);
